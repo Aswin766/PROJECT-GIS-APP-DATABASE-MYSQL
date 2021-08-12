@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UAS_GIS_ANDROID_2011520013</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_sekolah">Sekolah</string>
+    <string name="title_restaurant">Restaurant</string>
+    <string name="title_hospital">Hospital</string>
+</resources>
